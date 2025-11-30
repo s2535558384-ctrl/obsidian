@@ -41,7 +41,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -167,10 +167,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ff6b293860343b78",
+  "active": "0ffb55feeeadd0a2",
   "lastOpenFiles": [
-    "测试.md",
+    "工作/c++基础复习/C++基础与核心特性",
+    "工作/c++基础复习/未命名.md",
     "obsidian使用规范/mark down语法规范.md",
+    "工作/c++基础复习",
+    "测试.md",
     "Untitled.md",
     "obsidian使用规范/assets/mark down语法规范/file-20251130161334904.png",
     "obsidian使用规范/assets/mark down语法规范",
