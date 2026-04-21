@@ -11,12 +11,14 @@
             "id": "ff6b293860343b78",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "工作/c++基础复习/C++基础与核心特性/assets/认识变量与输出/file-20251130171528301.png"
+                "file": "工作/项目学习/项目架构方向/在qt项目中什么时候用信号，什么时候用回调？.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "file-20251130171528301"
+              "icon": "lucide-file",
+              "title": "在qt项目中什么时候用信号，什么时候用回调？"
             }
           }
         ]
@@ -165,12 +167,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "0ffb55feeeadd0a2",
+  "active": "ff6b293860343b78",
   "lastOpenFiles": [
+    "工作/c++基础复习/C++基础与核心特性/assets/认识变量与输出/file-20251130171528301.png",
+    "工作/项目学习/项目架构方向/在qt项目中什么时候用信号，什么时候用回调？.md",
+    "工作/项目学习/项目架构方向",
     "工作/项目学习",
     "工作/c++基础复习/C++基础与核心特性/头文件以及cpp文件的一些小技巧.md",
     "工作/c++基础复习/C++基础与核心特性/认识变量与输出.md",
-    "工作/c++基础复习/C++基础与核心特性/assets/认识变量与输出/file-20251130171528301.png",
     "工作/c++基础复习/C++基础与核心特性/assets/认识变量与输出",
     "工作/c++基础复习/C++基础与核心特性/assets",
     "obsidian使用规范/mark down语法规范.md",
@@ -183,8 +187,6 @@
     "obsidian使用规范/assets/mark down语法规范",
     "obsidian使用规范/assets",
     "obsidian使用规范",
-    "新建 文本文档.txt",
-    "生活",
-    "工作"
+    "新建 文本文档.txt"
   ]
 }
