@@ -62,7 +62,7 @@ void MainWindow::openPropertyDialog() {
 }
 ```
 
-### 为什么这里不用回调？
+### 为什么这里不用回调zl
 
 - 回调需要在构造时传入，而 Controller 可能尚未准备好数据。
 - 信号允许 View **按需请求**（例如点击下拉按钮时才发射），更灵活。
