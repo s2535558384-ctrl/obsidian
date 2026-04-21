@@ -5,11 +5,11 @@
 
 ## 一、核心原则
 
-| 原则 | 说明 |
-|------|------|
-| **View 不持有业务服务** | View 永远不持有 `VariableManager`、`CommandManger`、`ScriptDocument` 等业务对象的指针，也永远不主动调用它们的方法。 |
-| **View 只负责展示和转发** | View 通过 `setXxx(data)` 接收数据，通过信号发射用户意图。 |
-| **Controller 是调度中心** | Controller 持有业务服务，负责响应 View 信号、调用服务、更新 Model、向 View 推送数据。 |
+| 原则                   | 说明                                                                                    |
+| -------------------- | ------------------------------------------------------------------------------------- |
+| **View 不持有业务服务**     | View 永远不持有 `VariableManager`、`CommandManger`、`ScriptDocument` 等业务对象的指针，也永远不主动调用它们的方法。 |
+| **View 只负责展示和转发**    | View 通过 `setXxx(data)` 接收数据，通过信号发射用户意图。                                               |
+| **Controller 是调度中心** | Controller 持有业务服务，负责响应 View 信号、调用服务、更新 Model、向 View 推送数据。                             |
 
 ---
 
